@@ -1,0 +1,45 @@
+body {
+    background-color: #f7f4f2;
+}
+
+ul {
+    margin:0;
+    padding-top:5px
+}
+
+.itiran {
+    margin-left:0px;
+    background-color: brown;
+    color:white;
+    padding:10px;
+}
+
+.voimage {
+    height:200px;
+    width:auto;
+}
+
+.clubname {
+    color:orange;
+}
+
+.box {
+    width:60%;
+    height:200px;
+    border: 1px solid black;
+    margin-bottom:20px;
+    margin-left:50px;
+}
+
+.category {
+    border: 1px solid black;
+    font-size:20px;
+    padding:10px;
+    font-weight: bold;
+    background-color: cornsilk;
+}
+
+.nakami {
+    background-color: white;
+    height:146px
+}
